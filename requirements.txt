@@ -5,4 +5,4 @@ pytest
 pytest-testconfig
 requests
 selenium
-urllib3
+urllib3==1.25.11
